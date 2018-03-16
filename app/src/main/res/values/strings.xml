@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Missing People</string>
+    <string name="title_activity_maps">Missing People</string>
+    <string name="title_activity_people">Missing People</string>
+    <string name="title_activity_maps_des">Missing People</string>
+    <string name="title_home">Missing People</string>
+    <string name="title_dashboard">Missing People</string>
+    <string name="title_notifications">Missing People</string>
+    <string-array name="filtro"><!---->
+        <item>Idade</item>
+        <item>Data</item>
+    </string-array>
+</resources>
